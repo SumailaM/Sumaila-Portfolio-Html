@@ -34,9 +34,10 @@ JavaScript
 
 ### Preview
 
-
+https://sumailam.github.io/Sumaila-Portfolio-Html/
 
 ### Screenshots
+<img width="1710" alt="Screenshot 2024-02-12 at 11 10 52 PM" src="https://github.com/SumailaM/Sumaila-Portfolio-Html/assets/142268062/2694f92d-761a-4fe5-91ef-38b31d6a2961">
 
 
 ### Author
